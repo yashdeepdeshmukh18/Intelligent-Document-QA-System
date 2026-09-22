@@ -1,0 +1,8 @@
+numpy
+PyPDF2
+faiss-cpu
+requests
+sentence-transformers
+SpeechRecognition
+sounddevice
+soundfile
